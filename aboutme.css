@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right, tan,wheat,snow );
+}
+header{background-color: antiquewhite;}
+ul{
+    list-style-type: none; padding: 0px;
+}
+nav li {
+    display: inline-block; padding: 10px 100px 10px 30px;
+}
+.container{
+    float: right;
+}
+footer{text-align: center; }
